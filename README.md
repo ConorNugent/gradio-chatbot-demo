@@ -16,7 +16,7 @@ Gradio can be a little slow to start and especially so the first time when the m
 # Known crappiness
 This is just a quick proof of concept that is intended as a starting point. Having said that here are some known areas of ugliness 
 
-- The text box doesn't clear out on submit
+- The text box doesn't clear out on submit  (you will need to clear the text to input the next line in the conversation)
 
 - The conversation state is stored globally 
 
