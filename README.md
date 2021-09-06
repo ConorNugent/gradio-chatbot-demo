@@ -20,4 +20,15 @@ This is just a quick proof of concept that is intended as a starting point. Havi
 
 - The conversation state is stored globally 
 
+# Interacting with the client
+
+Just input some text and click submit
+
+<img width="1369" alt="Screenshot 2021-09-06 at 15 50 34" src="https://user-images.githubusercontent.com/228645/132234844-3f879236-0a53-4780-87b7-603e2dd0172c.png">
+
+The client will update the conversation with a reply from the bot and some feedback. To keep the conversation going just clear out the text, add a new response and click submit 
+
+<img width="1377" alt="Screenshot 2021-09-06 at 15 51 05" src="https://user-images.githubusercontent.com/228645/132234857-960c2573-a0a0-4107-9d3d-a13d841d3277.png">
+
+
 
