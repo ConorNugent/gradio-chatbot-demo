@@ -7,7 +7,7 @@ Some optional initial scaffolding for the chabot hackaton challenge. The intial 
 
 # Installation & running
 
-To install the requirements `pip install requirements.txt`
+To install the requirements `pip install -r requirements.txt`
 
 To run the gradio and kick start the client run `python gradio_demo.py` and then hit http://127.0.0.1:7860/
 
