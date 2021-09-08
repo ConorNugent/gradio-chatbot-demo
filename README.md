@@ -20,6 +20,8 @@ This is just a quick proof of concept that is intended as a starting point. Havi
 
 - The conversation state is stored globally 
 
+- The conversation craps out after a max number of toekns is reached. This should be an easy fix
+
 # Interacting with the client
 
 Just input some text and click submit
